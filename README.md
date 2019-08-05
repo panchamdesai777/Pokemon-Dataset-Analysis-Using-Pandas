@@ -4,7 +4,7 @@ POKEMON.py this code file consists of basic code operations using pandas on poke
 The following operatios performed in this code file are as follows:
 File I/O , Quick Exploration of Data , Cleaning the Data , Exploring Categorical Data , Exploring Numerical Columns......
  Advanced Pandas operations were also performed on the pokemon dataset 
-the following operatios performed in this code file are as follows:
+The following are operations performed in this code file are as follows:
 Conditional Filtering, Apply Functions , Groupby and Sorting , Pivot Tables 
 
 Note : The above all operations are combined in single code file , while running please run all the operations separately
